@@ -26,6 +26,11 @@ This was my first PCB, designed in KiCad.
 | ![Hour 5](images/pcb_hour5.png) All switches routed | ![Hour 6](images/pcb_hour6.png) LEDs and resistors started |
 | ![Hour 7](images/pcb_hour7.png) Most nets routed | ![Hour 8](images/pcb_hour8.png) Ground fill, fully routed |
 
+## Ordering the board
+
+Upload [`fabrication/stream-deck-gerbers.zip`](fabrication/stream-deck-gerbers.zip) to JLCPCB (or any
+PCB maker). The parts list is in [`bom.csv`](bom.csv).
+
 ## Firmware
 
 [`firmware/code.py`](firmware/code.py) runs on CircuitPython and needs the `adafruit_hid` library.
@@ -34,8 +39,10 @@ The Pico acts as a USB keyboard: keys 1–4 send F13–F16 and light their LED w
 ## Repository layout
 
 ```
-hardware/   KiCad project (schematic + PCB)
-firmware/   CircuitPython firmware (code.py)
-images/     Progress screenshots
-JOURNAL.md  Build log (synced from Half Life)
+hardware/     KiCad project (schematic + PCB)
+fabrication/  Gerber + drill files, zipped and unzipped
+firmware/     CircuitPython firmware (code.py)
+images/       Progress screenshots
+bom.csv       Bill of materials
+JOURNAL.md    Build log (synced from Half Life)
 ```
