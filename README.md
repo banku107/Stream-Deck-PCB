@@ -103,9 +103,3 @@ bom.csv        Bill of materials
 BOM.md         Parts list and costs (synced from Half Life)
 JOURNAL.md     Build log (synced from Half Life)
 ```
-
-## Credits
-
-Designed in [KiCad](https://www.kicad.org/). The schematic, PCB layout and firmware were made with
-help from Claude (Anthropic's AI assistant) driving KiCad through the
-[KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server).
