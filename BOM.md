@@ -12,12 +12,13 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Raspberry Pi Pico](https://www.amazon.ca/dp/B09X33TBY3?th=1) | Built in USB support, Easy to program, Cheap | 1 | $19.95 | $19.95 | [Freenove](https://www.amazon.ca/dp/B09X33TBY3?th=1) |
-| [Outemo Red Switches](https://www.amazon.ca/dp/B07TLLT229?th=1) | Switches for the buttons to click. Cannot find individual or 4 switches since it would cost too much per switch. | 1 | $16.99 | $16.99 | [Outemo](https://www.amazon.ca/dp/B07TLLT229?th=1) |
-| [OEM Transparent Kye](https://www.amazon.ca/dp/B0CQ2Y89GQ?th=1) | Keycap over the switches | 1 | $17.99 | $17.99 | [Elacgap](https://www.amazon.ca/dp/B0CQ2Y89GQ?th=1) |
-| [Chanzon 3mm Diode LEDs](https://www.amazon.ca/dp/B01AUI4W5U?th=1) | LEDs for the switches to make sure they work | 1 | $8.99 | $8.99 | [Chanzon](https://www.amazon.ca/dp/B01AUI4W5U?th=1) |
-| **Parts subtotal** | — | — | — | **$63.92** | — |
+| [Raspberry Pi Pico](https://www.pishop.ca/product/raspberry-pi-pico/) | Built in USB support, Easy to program, Cheap | 1 | $5.65 | $5.65 | [PiShop.ca](https://www.pishop.ca/product/raspberry-pi-pico/) |
+| [Raspberry Pi Pico Header Set](https://www.pishop.ca/product/raspberry-pi-pico-header-set/) | Headers to solder onto the Pico so it fits the PCB | 1 | $2.45 | $2.45 | [PiShop.ca](https://www.pishop.ca/product/raspberry-pi-pico-header-set/) |
+| [Red Linear Switches (10 pack)](https://www.amazon.ca/dp/B082FC7K9N) | Switches for the buttons to click. Smallest pack that was still cheap per switch. | 1 | $8.99 | $8.99 | [Amazon.ca](https://www.amazon.ca/dp/B082FC7K9N) |
+| [Transparent XDA Keycaps (4 pack)](https://www.amazon.ca/dp/B0F28Q9NN6) | Keycap over the switches, clear so the LEDs show | 1 | $4.94 | $4.94 | [Amazon.ca](https://www.amazon.ca/dp/B0F28Q9NN6) |
+| [Diffused Yellow 3mm LEDs (25 pack)](https://www.pishop.ca/product/diffused-yellow-3mm-led-25-pack/) | LEDs for the switches to make sure they work | 1 | $5.95 | $5.95 | [PiShop.ca](https://www.pishop.ca/product/diffused-yellow-3mm-led-25-pack/) |
+| **Parts subtotal** | — | — | — | **$27.98** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$63.92** | — |
+| **Total** | — | — | — | **$27.98** | — |
 
-$1.08 left of the tier's funding.
+$37.02 left of the tier's funding.
