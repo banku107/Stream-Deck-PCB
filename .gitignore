@@ -1,0 +1,13 @@
+# KiCad local / generated files
+*.kicad_prl
+*-backups/
+*.lck
+\#auto_saved_files#
+_autosave-*
+fp-info-cache
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
