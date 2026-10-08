@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12h | 3 |
+| Week 1 | Tier 1 | 14h | 3 |
 
 ## Contents
 
 1. [2026-10-05 – ![Screenshot 2026-10-05 215717](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/a49067321eb7758d0a53f4af0d0bf0272e5392fdee418c602294a01a718e193b.png)](#2026-10-05-screenshot-2026-10-05-215717httpshalflifehackclub)
 2. [2026-10-06 – ![Screenshot 2026-10-06 094514](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/4b35949eb2d8e2cb2ecdfb0531bbf4da114115e5edad7deb07d3973951d82e77.png)](#2026-10-06-screenshot-2026-10-06-094514httpshalflifehackclub)
-3. [2026-10-08 – ![hour-1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/8ff3dcdede70c3ece21202b3a4c99582f48a819001ec0d7e485cc37e076583f4.png)](#2026-10-08-hour-1httpshalflifehackclub-assetscomhackclub-hal)
+3. [2026-10-08 – ![pcb_hour1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/72345e6e4ee83bd9c283a38842c815ffb23e9ab81e4a68ea96d774c671f220b2.png)](#2026-10-08-pcbhour1httpshalflifehackclub-assetscomhackclub-h)
 
 ## Design
 
@@ -46,20 +46,24 @@ Learned the basics on how to actually make a PCB schematic and going to work fro
 
 Created first ever schematic with some help from youtube. Took way too long in my opinion. However, I think that I learned a lot from making this especially since it is my first time ever making a PCB. Hoping to learn a lot more.
 
-### 2026-10-08 – ![hour-1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/8ff3dcdede70c3ece21202b3a4c99582f48a819001ec0d7e485cc37e076583f4.png)
+### 2026-10-08 – ![pcb_hour1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/72345e6e4ee83bd9c283a38842c815ffb23e9ab81e4a68ea96d774c671f220b2.png)
 
-**6h**
+**8h**
 
-![hour-1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/8ff3dcdede70c3ece21202b3a4c99582f48a819001ec0d7e485cc37e076583f4.png)
+![pcb_hour1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/72345e6e4ee83bd9c283a38842c815ffb23e9ab81e4a68ea96d774c671f220b2.png)
 
-![hour-2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/b4bf9763d1fd1319f076934e91d49473299dc6153e87844b986fea52e717a36d.png)
+![pcb_hour2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/a283f4634ae0be516826232bd941b008e640ec6f701154f764fed961985c6fc3.png)
 
-![hour-3](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/bf142f4c50192e5c869c9f9e55387928a20025c5d487d6f53e4a6c59e91c1346.png)
+![pcb_hour3](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/bcd0756d3f028cd315b0c7bf2df05e57c712d8b68c9592f8f6c4772d0567664e.png)
 
-![hour-4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/33e6d098e4c3df93f0ac2bb13ed269155bf8640e6f2049d09f590833ee4241e7.png)
+![pcb_hour4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/d2f69b1159b7935aac889b888af6a5e5ef99ac431d11f7f8edf083c0727a028b.png)
 
-![hour-5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/7d02bd3d9b5747a7046ee25fb7b992240aaa3e5b8fee2946b9eae30132baf513.png)
+![pcb_hour5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/e143bbee5c9fcb03885d66681925b0528372a1cb4c0b6e54b1652bdf268105c4.png)
 
-![hour-6](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/d8a03548647c951fabd020c7f179d8b16b5743024a47b168eb73d1db6b5247b3.png)
+![pcb_hour6](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/c4f8251e25eb73e8eb5a816da2900b6039526c001249ca8f95477586454e2fe5.png)
+
+![pcb_hour7](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/b13feebe1829cd89df0be14204383c8d74ac08109011969460b16a0a83a73997.png)
+
+![pcb_hour8](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dQglMxf80ZWpoCgD2mJZjwkD0gTXvYip/6a136741dd9897ae25e97efca0a1a7e9aa42b16cf7c986d1da6e9dc735bbd263.png)
 
 Finished making the PCB after a lot of work. Had to watch a bunch of videos on how a lot of the stuff actually worked by then it worked out in the end. Hoping to make better stuff in the future since this was a little bit basic since this is my first time. There is also basic tracing.
