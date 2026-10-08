@@ -16,9 +16,8 @@
 | [Jagetrade 10 Pc Switches](https://www.amazon.ca/dp/B082FC7K9N) | Switches for the Clicking | 1 | $8.99 | $8.99 | [Amazon](https://www.amazon.ca/dp/B082FC7K9N) |
 | [Transparent Key Caps](https://www.amazon.ca/dp/B0F28Q9NN6?th=1) | Keycap over the switches | 1 | $4.94 | $4.94 | [Amazon](https://www.amazon.ca/dp/B0F28Q9NN6?th=1) |
 | [3mm LED 25 Pack](https://www.pishop.ca/product/diffused-yellow-3mm-led-25-pack/) | LEDs for the switches to make sure they work | 1 | $5.95 | $5.95 | [PiShop](https://www.pishop.ca/product/diffused-yellow-3mm-led-25-pack/) |
-| [Raspberry Pi Pico Header Set](https://www.pishop.ca/product/raspberry-pi-pico-header-set/) | Headers for the headerless Raspberry Pi Pico | 1 | $2.45 | $2.45 | [PiShop](https://www.pishop.ca/product/raspberry-pi-pico-header-set/) |
-| **Parts subtotal** | — | — | — | **$27.98** | — |
+| **Parts subtotal** | — | — | — | **$25.53** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$27.98** | — |
+| **Total** | — | — | — | **$25.53** | — |
 
-$2.02 left of the tier's funding.
+$4.47 left of the tier's funding.
