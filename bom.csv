@@ -1,8 +1,0 @@
-Reference,Qty,Value,Footprint,Description,Source,Unit price (CAD),Notes
-U1,1,Raspberry Pi Pico,Module:RaspberryPi_Pico_Common_THT,RP2040 microcontroller board with pre-soldered headers,https://www.amazon.ca/dp/B09X33TBY3,19.95,Freenove; acts as the USB keyboard
-SW1 SW2 SW3 SW4,4,Outemu Red (MX-style),Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,"3-pin linear key switch with LED slot (pack of 20)",https://www.amazon.ca/dp/B07TLLT229,16.99,Price is for the 20-pack
--,4,Translucent 1U keycap (OEM R4),-,Frosted translucent blank keycap (pack of 20),https://www.amazon.ca/dp/B0CQ2Y89GQ,17.99,Price is for the 20-pack; translucent so the key LEDs show
-D1 D2 D3 D4,4,3 mm LED,LED_THT:LED_D3.0mm,"3 mm round LED, red/yellow/green recommended (pack of 100)",https://www.amazon.ca/dp/B01AUI4W5U,8.99,Optional; sits in each switch's LED slot. Must be 3 mm (5 mm won't fit)
-R1 R2 R3 R4,4,330 ohm,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1/4 W through-hole resistor,From an Arduino kit,0.00,Optional; only needed with the LEDs. 220 ohm also works
-H1 H2,2,M2 mounting hole,MountingHole:MountingHole_2.2mm_M2,Mounting hole for a case (part of the PCB),-,0.00,No part to buy
-PCB,1,stream-deck PCB,-,"2-layer 63 x 52.5 mm board, 1.6 mm FR4",fabrication/stream-deck-gerbers.zip,-,Order from JLCPCB or similar (min. 5 boards)

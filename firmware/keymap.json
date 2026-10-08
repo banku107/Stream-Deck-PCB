@@ -1,8 +1,0 @@
-{
-  "keys": [
-    { "label": "Web browser", "type": "launch", "command": "https://www.google.com" },
-    { "label": "Notepad", "type": "launch", "command": "notepad" },
-    { "label": "Task Manager", "type": "keys", "keys": ["CONTROL", "SHIFT", "ESCAPE"] },
-    { "label": "Play / pause", "type": "media", "code": "PLAY_PAUSE" }
-  ]
-}
